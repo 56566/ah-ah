@@ -1,0 +1,14 @@
+token= NDYxMTcxMDczMjA0MDkyOTM4.Dz8kDw.VSDBaGwbfgxnapOQZYvVoW0xx0E
+
+owner= 440956073332178954
+
+prefix= 56
+
+game= welcome...💔
+
+stayinchannel=true 
+
+songinstatus=false 
+
+ 
+
