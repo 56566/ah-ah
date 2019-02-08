@@ -1,10 +1,9 @@
-token= NDYxMTcxMDczMjA0MDkyOTM4.Dz8kDw.VSDBaGwbfgxnapOQZYvVoW0xx0E
-
+token= NDYxNDUwNTE5MDAxNTYzMTM2.Dz-DXA.gOlJCPyTCQHvgoJflKB1ZkPGL5c
 owner= 440956073332178954
 
 prefix=!
 
-game= welcome...💔
+game= col bot
 
 stayinchannel=true 
 
